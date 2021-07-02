@@ -1,0 +1,19 @@
+{
+  "version": "1.0.1",
+  "author": {
+    "name": "Arisman Webs"
+  },
+  "dependencies": {
+    "aw_polymer_3": "^1.1.13"
+  },
+  "description": "Ventan de información para Polymer 3",
+  "keywords": [
+    "Arisman Webs"
+  ],
+  "license": "ISC",
+  "name": "aw_wininfo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manujoz/aw_wininfo.git"
+  }
+}
